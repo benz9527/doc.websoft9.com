@@ -136,7 +136,7 @@ Websoft9 与之相比：
 - 是将基础设施控制权交给用户的 PaaS，它满足了托管应用的便捷性，又满足了可控和成本支出
 - 100% 开源基座，杜绝任何供应商锁定的可能性
 
-### Websoft9 vs OpenShit vs KubeSphere
+### Websoft9 vs OpenShift vs KubeSphere
 
 OpenShift 和 KubeSphere 都是基于 Kubernetes 的企业级容器应用平台，提供了完全的 DevOps 工具链支持和自动化运维能力。支持多租户和集群，它为大型企业提供了隔离和管理不同项目和团队的能力，同时提供了全面的安全和合规性功能。丰富的生态系统，帮助企业快速实现云原生应用的开发、部署和管理。  
 
